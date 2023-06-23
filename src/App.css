@@ -24,3 +24,15 @@
   color: #9F77EB;
 }
 
+.send{
+   transform: rotate(270deg);  
+}
+
+.anchor{
+  text-decoration: none;
+}
+
+.selected-button{
+  background-color: #9F77EB;
+  color: white;
+}
